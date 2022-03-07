@@ -81,6 +81,11 @@ a:hover { text-decoration: underline; }
     text-align: center;
 }
 
+.tab {
+    display: inline-block;
+    margin-left: 40px;
+}
+
 .name-en {
 	font-size: 32px;
 	color: #222;
